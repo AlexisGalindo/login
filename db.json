@@ -1,0 +1,178 @@
+{
+  "users": [
+    {
+      "id": "5ac4",
+      "name": "Alexis Galindo",
+      "email": "agalindo@gmail.com",
+      "password": "Contra123"
+    },
+    {
+      "id": "4841",
+      "name": "LUCÍA CRISTEL RAMÍREZ ROMERO",
+      "email": "cristel@gmail.com",
+      "password": "Contra123"
+    },
+    {
+      "id": "3741",
+      "name": "Juan",
+      "email": "juan@gmail.com",
+      "password": "Mia12345"
+    },
+    {
+      "id": "0483",
+      "name": "Fernando Martínez",
+      "email": "fer@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3c43",
+      "name": "Galindo",
+      "email": "12@gmail.com",
+      "password": "456"
+    },
+    {
+      "id": "2ea5",
+      "name": "ITZEL",
+      "email": "itzelsalas@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "19dd",
+      "name": "ITZEL",
+      "email": "itzelsalas@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "b332",
+      "name": "itzel",
+      "email": "itzelsalas@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "9dda",
+      "name": "itzel",
+      "email": "itzelsalas@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "a227",
+      "name": "itzel",
+      "email": "itzelsalas@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "7d58",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "ed8b",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "1c76",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "9cc0",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "3b05",
+      "name": "it",
+      "email": "sa@gmail.com",
+      "password": "214"
+    },
+    {
+      "id": "15c7",
+      "name": "it",
+      "email": "sa@gmail.com",
+      "password": "214"
+    },
+    {
+      "id": "b813",
+      "name": "it",
+      "email": "sa@gmail.com",
+      "password": "214"
+    },
+    {
+      "id": "a4a8",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "itzel"
+    },
+    {
+      "id": "1f3d",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "itzel"
+    },
+    {
+      "id": "7fd0",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "itzel"
+    },
+    {
+      "id": "8e04",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "itzel"
+    },
+    {
+      "id": "5850",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "itzel"
+    },
+    {
+      "id": "3d0d",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "itzel"
+    },
+    {
+      "id": "d47b",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "itzel"
+    },
+    {
+      "id": "3a37",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "itzel"
+    },
+    {
+      "id": "4f4a",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "itzel"
+    },
+    {
+      "id": "4ae2",
+      "name": "itzel",
+      "email": "itzel@gmail.com",
+      "password": "itzel"
+    },
+    {
+      "id": "aa04",
+      "name": "itzel",
+      "email": "it@gmail.com",
+      "password": "234"
+    },
+    {
+      "id": "28d1",
+      "name": "itzel",
+      "email": "ale@gmail.com",
+      "password": "789"
+    }
+  ]
+}
